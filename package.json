@@ -1,0 +1,24 @@
+{
+  "name": "haghbot-website",
+  "version": "1.0.0",
+  "description": "hagh bot website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAGH-Team/haghbot-website.git"
+  },
+  "author": "hesam tvs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAGH-Team/haghbot-website/issues"
+  },
+  "homepage": "https://github.com/HAGH-Team/haghbot-website#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
